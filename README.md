@@ -1,6 +1,6 @@
 ### Hi, I'm Enze Liu
 
-CS undergraduate at **Beijing University of Posts and Telecommunications (BUPT)**, researching **Computer Vision** and **Image Aesthetics Assessment**.
+IoT Engineering undergraduate at **Beijing University of Posts and Telecommunications (BUPT)**, researching **Computer Vision** and **Image Aesthetics Assessment**.
 
 Alongside my academic research, I build reproducible **AI4Science workflows**, **MCP (Model Context Protocol)** adapters for scientific code, and local-first software tools.
 
